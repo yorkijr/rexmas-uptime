@@ -11,6 +11,9 @@ sites:
     url: https://ayuda.rexmas.com/ayudas
   - name: Sitio Web Rexmas
     url: https://rexmas.com
+    
+assignees:
+  - yorkijr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
