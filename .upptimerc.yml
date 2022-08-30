@@ -20,7 +20,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /rexmas-uptime
-  logoUrl: https://t4t3h9s6.rocketcdn.me/wp-content/uploads/2021/05/Logo-Rex.png
+  logoUrl: https://t4t3h9s6.rocketcdn.me/wp-content/uploads/2021/05/Rexmas.jpg
   name: Rexmas Status
   introTitle: "**Upptime** Sitio Web para ver el status de la app de Rexmas"
   introMessage: Esta Pagina Web monitorea el Status de los Sitios Critico de Rexmas en AWS
