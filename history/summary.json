@@ -22,19 +22,19 @@
     "url": "https://accounts.rexmas.com/login?membership_id=&system_id=&session_token=",
     "icon": "https://favicons.githubusercontent.com/accounts.rexmas.com",
     "slug": "rexmas-sso",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 252,
-    "timeDay": 252,
-    "timeWeek": 252,
-    "timeMonth": 252,
-    "timeYear": 252,
+    "status": "up",
+    "uptime": "91.36%",
+    "uptimeDay": "91.36%",
+    "uptimeWeek": "91.36%",
+    "uptimeMonth": "91.36%",
+    "uptimeYear": "91.36%",
+    "time": 238,
+    "timeDay": 238,
+    "timeWeek": 238,
+    "timeMonth": 238,
+    "timeYear": 238,
     "dailyMinutesDown": {
-      "2022-08-30": 0
+      "2022-08-30": 10
     }
   },
   {
