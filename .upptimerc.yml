@@ -32,7 +32,7 @@ status-website:
   introMessage: Esta Pagina Web monitorea el Status de los Sitios Critico de Rexmas en AWS
   navbar:
     - title: Status
-      href: /
+      href: https://yorkijr.github.io/rexmas-uptime/
     - title: Rexmas
       href: https://rexmas.com
 
