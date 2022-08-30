@@ -11,6 +11,8 @@ sites:
     url: https://ayuda.rexmas.com/ayudas
   - name: Sitio Web Rexmas
     url: https://rexmas.com
+  - name: testing
+    url: https://consurso-187979611.sa-east-1.elb.amazonaws.com
     
 assignees:
   - yorkijr
