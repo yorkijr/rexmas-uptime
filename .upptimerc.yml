@@ -11,8 +11,12 @@ sites:
     url: https://ayuda.rexmas.com/ayudas
   - name: Sitio Web Rexmas
     url: https://rexmas.com
-  - name: testing
-    url: https://mandomedio.com
+  - name: Portal del Colaborador
+    url: https://tercera.mirexmas.com
+  - name: Api Publication
+    url: https://publications.rexmas.com
+  - name: Api Payments
+    url: https://payments.rexmas.com
     
 assignees:
   - yorkijr
