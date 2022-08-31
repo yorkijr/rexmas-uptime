@@ -58,19 +58,19 @@
     "url": "https://rexmas.com",
     "icon": "https://favicons.githubusercontent.com/rexmas.com",
     "slug": "sitio-web-rexmas",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 365,
-    "timeDay": 365,
-    "timeWeek": 365,
-    "timeMonth": 365,
-    "timeYear": 365,
+    "status": "up",
+    "uptime": "99.48%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.48%",
+    "time": 356,
+    "timeDay": 356,
+    "timeWeek": 356,
+    "timeMonth": 356,
+    "timeYear": 356,
     "dailyMinutesDown": {
-      "2022-08-31": 0
+      "2022-08-31": 7
     }
   },
   {
