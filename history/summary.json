@@ -4,9 +4,9 @@
     "url": "https://tercera.rexmas.cl/remuneraciones/es-CL/login",
     "icon": "https://favicons.githubusercontent.com/tercera.rexmas.cl",
     "slug": "rexmas-chile",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 440,
     "timeMonth": 389,
     "timeYear": 389,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-13": 0
+    }
   },
   {
     "name": "Rexmas SSO",
@@ -62,11 +64,11 @@
     "icon": "https://favicons.githubusercontent.com/rexmas.com",
     "slug": "sitio-web-rexmas",
     "status": "up",
-    "uptime": "89.87%",
+    "uptime": "89.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.91%",
-    "uptimeMonth": "89.87%",
-    "uptimeYear": "89.87%",
+    "uptimeMonth": "89.89%",
+    "uptimeYear": "89.89%",
     "time": 819,
     "timeDay": 462,
     "timeWeek": 426,
