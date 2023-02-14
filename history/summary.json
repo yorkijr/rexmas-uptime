@@ -100,9 +100,9 @@
     "url": "https://tercera.mirexmas.com",
     "icon": "https://icons.duckduckgo.com/ip3/tercera.mirexmas.com.ico",
     "slug": "portal-del-colaborador",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -111,7 +111,9 @@
     "timeWeek": 242,
     "timeMonth": 291,
     "timeYear": 311,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-14": 0
+    }
   },
   {
     "name": "Api Publication",
