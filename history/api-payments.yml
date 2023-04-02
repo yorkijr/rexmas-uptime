@@ -1,7 +1,7 @@
 url: https://payments.rexmas.com
-status: down
-code: 503
-responseTime: 200
-lastUpdated: 2023-04-02T03:50:49.048Z
+status: up
+code: 200
+responseTime: 101
+lastUpdated: 2023-04-02T03:59:35.009Z
 startTime: Tue Aug 30 2022 22:03:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
