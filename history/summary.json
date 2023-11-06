@@ -190,18 +190,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/manager-api.dev.rexmas.com.ico",
     "slug": "api-bnovus-dev",
     "status": "down",
-    "uptime": "48.36%",
-    "uptimeDay": "48.36%",
-    "uptimeWeek": "48.36%",
-    "uptimeMonth": "48.36%",
-    "uptimeYear": "48.36%",
+    "uptime": "35.31%",
+    "uptimeDay": "35.31%",
+    "uptimeWeek": "35.31%",
+    "uptimeMonth": "35.31%",
+    "uptimeYear": "35.31%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-06": 0
+      "2023-11-06": 1
     }
   },
   {
@@ -210,18 +210,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/manager-api.qa.rexmas.com.ico",
     "slug": "api-bnovus-qa",
     "status": "down",
-    "uptime": "8.59%",
-    "uptimeDay": "8.59%",
-    "uptimeWeek": "8.59%",
-    "uptimeMonth": "8.59%",
-    "uptimeYear": "8.59%",
+    "uptime": "4.92%",
+    "uptimeDay": "4.92%",
+    "uptimeWeek": "4.92%",
+    "uptimeMonth": "4.92%",
+    "uptimeYear": "4.92%",
     "time": 1689,
     "timeDay": 1689,
     "timeWeek": 1689,
     "timeMonth": 1689,
     "timeYear": 1689,
     "dailyMinutesDown": {
-      "2023-11-06": 0
+      "2023-11-06": 1
     }
   },
   {
@@ -230,18 +230,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/manager-api.rexmas.com.ico",
     "slug": "api-bnovus-prod",
     "status": "down",
-    "uptime": "3.85%",
-    "uptimeDay": "3.85%",
-    "uptimeWeek": "3.85%",
-    "uptimeMonth": "3.85%",
-    "uptimeYear": "3.85%",
+    "uptime": "2.11%",
+    "uptimeDay": "2.11%",
+    "uptimeWeek": "2.11%",
+    "uptimeMonth": "2.11%",
+    "uptimeYear": "2.11%",
     "time": 335,
     "timeDay": 335,
     "timeWeek": 335,
     "timeMonth": 335,
     "timeYear": 335,
     "dailyMinutesDown": {
-      "2023-11-06": 0
+      "2023-11-06": 1
     }
   }
 ]
