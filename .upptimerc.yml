@@ -17,8 +17,6 @@ sites:
     url: https://publications.rexmas.com
   - name: Api Payments
     url: https://payments.rexmas.com
-  - name: Api bnovus-dev
-    url: https://manager-api.dev.rexmas.com/admin
   - name: Api bnovus-qa
     url: https://manager-api.qa.rexmas.com/admin
   - name: Api bnovus-prod
