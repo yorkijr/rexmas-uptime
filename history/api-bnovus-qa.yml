@@ -1,7 +1,7 @@
 url: https://manager-api.qa.rexmas.com/admin
-status: down
-code: 502
-responseTime: 110
-lastUpdated: 2024-02-29T11:46:59.827Z
+status: up
+code: 200
+responseTime: 243
+lastUpdated: 2024-02-29T11:55:53.395Z
 startTime: 2023-11-06T15:58:52.295Z
 generator: Upptime <https://github.com/upptime/upptime>
