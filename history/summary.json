@@ -66,18 +66,20 @@
     "url": "https://ayuda.rexmas.com/ayudas",
     "icon": "https://icons.duckduckgo.com/ip3/ayuda.rexmas.com.ico",
     "slug": "ayuda-rexmas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 228,
+    "time": 229,
     "timeDay": 193,
     "timeWeek": 251,
     "timeMonth": 211,
     "timeYear": 224,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-26": 0
+    }
   },
   {
     "name": "Sitio Web Rexmas",
@@ -195,11 +197,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/manager-api.qa.rexmas.com.ico",
     "slug": "api-bnovus-qa",
     "status": "up",
-    "uptime": "73.18%",
+    "uptime": "73.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "89.52%",
     "uptimeMonth": "70.25%",
-    "uptimeYear": "73.18%",
+    "uptimeYear": "73.22%",
     "time": 2859,
     "timeDay": 174,
     "timeWeek": 1277,
