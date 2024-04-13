@@ -66,19 +66,19 @@
     "url": "https://ayuda.rexmas.com/ayudas",
     "icon": "https://icons.duckduckgo.com/ip3/ayuda.rexmas.com.ico",
     "slug": "ayuda-rexmas",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 247,
-    "timeDay": 1975,
-    "timeWeek": 1285,
-    "timeMonth": 600,
-    "timeYear": 259,
+    "time": 249,
+    "timeDay": 1715,
+    "timeWeek": 1275,
+    "timeMonth": 618,
+    "timeYear": 262,
     "dailyMinutesDown": {
-      "2024-04-13": 0
+      "2024-04-13": 9
     }
   },
   {
