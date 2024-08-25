@@ -214,18 +214,19 @@
     "url": "https://manager-api.qa.rexmas.com/admin",
     "icon": "https://icons.duckduckgo.com/ip3/manager-api.qa.rexmas.com.ico",
     "slug": "api-bnovus-qa",
-    "status": "up",
-    "uptime": "89.78%",
-    "uptimeDay": "70.73%",
+    "status": "down",
+    "uptime": "89.90%",
+    "uptimeDay": "70.71%",
     "uptimeWeek": "70.21%",
     "uptimeMonth": "69.42%",
-    "uptimeYear": "89.78%",
-    "time": 2748,
-    "timeDay": 3589,
-    "timeWeek": 1587,
-    "timeMonth": 2437,
-    "timeYear": 2748,
+    "uptimeYear": "89.90%",
+    "time": 2757,
+    "timeDay": 5272,
+    "timeWeek": 1951,
+    "timeMonth": 2517,
+    "timeYear": 2757,
     "dailyMinutesDown": {
+      "2024-08-25": 0,
       "2024-08-24": 421,
       "2024-08-23": 435,
       "2024-08-22": 438,
@@ -317,8 +318,7 @@
       "2024-05-22": 499,
       "2024-05-21": 488,
       "2024-05-20": 493,
-      "2024-05-19": 485,
-      "2024-05-18": 506
+      "2024-05-19": 485
     }
   },
   {
