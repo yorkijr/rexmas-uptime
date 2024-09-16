@@ -1,7 +1,7 @@
 url: https://accounts.rexmas.com/login?membership_id=&system_id=&session_token=
-status: down
-code: 503
-responseTime: 224
-lastUpdated: 2024-09-16T03:55:17.472Z
+status: up
+code: 200
+responseTime: 118
+lastUpdated: 2024-09-16T04:16:59.863Z
 startTime: 2022-08-30T18:28:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
