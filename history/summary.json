@@ -214,18 +214,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-users.rexmas.com.ico",
     "slug": "api-users",
     "status": "down",
-    "uptime": "6.56%",
-    "uptimeDay": "6.56%",
-    "uptimeWeek": "6.56%",
-    "uptimeMonth": "6.56%",
-    "uptimeYear": "6.56%",
+    "uptime": "3.04%",
+    "uptimeDay": "3.04%",
+    "uptimeWeek": "3.04%",
+    "uptimeMonth": "3.04%",
+    "uptimeYear": "3.04%",
     "time": 1351,
     "timeDay": 1351,
     "timeWeek": 1351,
     "timeMonth": 1351,
     "timeYear": 1351,
     "dailyMinutesDown": {
-      "2024-09-27": 0
+      "2024-09-27": 1
     }
   },
   {
