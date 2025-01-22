@@ -1,7 +1,7 @@
 url: https://ayuda.rexmas.com/ayudas
-status: up
-code: 200
-responseTime: 2184
-lastUpdated: 2025-01-21T23:14:26.526Z
+status: down
+code: 503
+responseTime: 325
+lastUpdated: 2025-01-22T11:47:30.991Z
 startTime: 2022-08-30T18:28:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
