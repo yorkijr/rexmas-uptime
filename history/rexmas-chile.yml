@@ -1,7 +1,7 @@
 url: https://tercera.rexmas.cl/remuneraciones/es-CL/login
-status: up
-code: 200
-responseTime: 140
-lastUpdated: 2025-02-06T11:52:10.296Z
+status: down
+code: 503
+responseTime: 292
+lastUpdated: 2025-02-06T13:11:42.233Z
 startTime: 2022-08-30T18:28:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
