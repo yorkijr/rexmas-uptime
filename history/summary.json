@@ -42,7 +42,7 @@
     "timeDay": 382,
     "timeWeek": 196,
     "timeMonth": 208,
-    "timeYear": 238,
+    "timeYear": 239,
     "dailyMinutesDown": {
       "2024-10-01": 58,
       "2024-09-16": 22,
@@ -67,7 +67,7 @@
     "timeDay": 1791,
     "timeWeek": 1415,
     "timeMonth": 1792,
-    "timeYear": 1335,
+    "timeYear": 1336,
     "dailyMinutesDown": {
       "2025-04-04": 16,
       "2024-12-05": 40,
@@ -96,7 +96,7 @@
     "timeDay": 682,
     "timeWeek": 311,
     "timeMonth": 324,
-    "timeYear": 385,
+    "timeYear": 383,
     "dailyMinutesDown": {
       "2024-11-05": 16,
       "2024-06-08": 95
@@ -117,7 +117,7 @@
     "timeDay": 350,
     "timeWeek": 266,
     "timeMonth": 281,
-    "timeYear": 254,
+    "timeYear": 255,
     "dailyMinutesDown": {}
   },
   {
@@ -126,18 +126,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/publications.rexmas.com.ico",
     "slug": "api-publication",
     "status": "down",
-    "uptime": "86.89%",
+    "uptime": "86.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "1.36%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "65.51%",
+    "uptimeYear": "65.50%",
     "time": 263,
     "timeDay": 482,
     "timeWeek": 261,
     "timeMonth": 255,
     "timeYear": 287,
     "dailyMinutesDown": {
-      "2025-04-21": 1385,
+      "2025-04-22": 32,
+      "2025-04-21": 1440,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
@@ -327,7 +328,8 @@
     "timeMonth": 211,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2025-04-21": 1385,
+      "2025-04-22": 32,
+      "2025-04-21": 1440,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
@@ -551,7 +553,7 @@
     "timeDay": 503,
     "timeWeek": 286,
     "timeMonth": 461,
-    "timeYear": 414,
+    "timeYear": 415,
     "dailyMinutesDown": {
       "2025-02-24": 49,
       "2025-02-12": 455,
