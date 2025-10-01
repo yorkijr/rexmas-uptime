@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 409,
-    "timeDay": 296,
-    "timeWeek": 392,
-    "timeMonth": 384,
+    "timeDay": 316,
+    "timeWeek": 370,
+    "timeMonth": 386,
     "timeYear": 353,
     "dailyMinutesDown": {
       "2025-06-18": 42,
@@ -22,8 +22,7 @@
       "2025-04-21": 18,
       "2024-11-06": 16,
       "2024-10-24": 106,
-      "2024-10-23": 1,
-      "2024-10-01": 58
+      "2024-10-23": 1
     }
   },
   {
@@ -38,13 +37,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 239,
-    "timeDay": 270,
-    "timeWeek": 235,
-    "timeMonth": 269,
+    "timeDay": 215,
+    "timeWeek": 224,
+    "timeMonth": 270,
     "timeYear": 223,
-    "dailyMinutesDown": {
-      "2024-10-01": 58
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ayuda Rexmas",
@@ -52,18 +49,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ayuda.rexmas.com.ico",
     "slug": "ayuda-rexmas",
     "status": "down",
-    "uptime": "92.00%",
+    "uptime": "91.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "76.41%",
-    "time": 1330,
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "76.14%",
+    "time": 1331,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1370,
+    "timeYear": 1371,
     "dailyMinutesDown": {
-      "2025-09-30": 31,
+      "2025-10-01": 36,
+      "2025-09-30": 1440,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -169,9 +167,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 476,
-    "timeDay": 431,
-    "timeWeek": 384,
-    "timeMonth": 675,
+    "timeDay": 307,
+    "timeWeek": 340,
+    "timeMonth": 702,
     "timeYear": 475,
     "dailyMinutesDown": {
       "2025-07-06": 52,
@@ -190,9 +188,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 268,
-    "timeDay": 302,
-    "timeWeek": 251,
-    "timeMonth": 289,
+    "timeDay": 189,
+    "timeWeek": 233,
+    "timeMonth": 288,
     "timeYear": 272,
     "dailyMinutesDown": {}
   },
@@ -202,18 +200,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/publications.rexmas.com.ico",
     "slug": "api-publication",
     "status": "down",
-    "uptime": "74.51%",
+    "uptime": "74.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "21.56%",
-    "time": 298,
-    "timeDay": 336,
-    "timeWeek": 295,
-    "timeMonth": 371,
-    "timeYear": 299,
+    "uptimeMonth": "1.74%",
+    "uptimeYear": "21.29%",
+    "time": 299,
+    "timeDay": 502,
+    "timeWeek": 314,
+    "timeMonth": 375,
+    "timeYear": 300,
     "dailyMinutesDown": {
-      "2025-09-30": 32,
+      "2025-10-01": 36,
+      "2025-09-30": 1440,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -502,8 +501,7 @@
       "2024-12-18": 1417,
       "2024-12-17": 1440,
       "2024-12-16": 520,
-      "2024-11-24": 17,
-      "2024-10-01": 47
+      "2024-11-24": 17
     }
   },
   {
@@ -518,13 +516,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 257,
-    "timeDay": 296,
-    "timeWeek": 277,
-    "timeMonth": 294,
+    "timeDay": 291,
+    "timeWeek": 259,
+    "timeMonth": 297,
     "timeYear": 245,
-    "dailyMinutesDown": {
-      "2024-10-01": 47
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Api Users",
@@ -535,15 +531,16 @@
     "uptime": "0.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.74%",
     "uptimeYear": "0.40%",
     "time": 222,
-    "timeDay": 269,
-    "timeWeek": 204,
-    "timeMonth": 273,
+    "timeDay": 169,
+    "timeWeek": 172,
+    "timeMonth": 272,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2025-09-30": 32,
+      "2025-10-01": 36,
+      "2025-09-30": 1440,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -906,8 +903,7 @@
       "2024-10-05": 1440,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
-      "2024-10-02": 1440,
-      "2024-10-01": 1440
+      "2024-10-02": 1440
     }
   },
   {
@@ -916,18 +912,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/manager-api.rexmas.com.ico",
     "slug": "api-bnovus-prod",
     "status": "down",
-    "uptime": "81.88%",
+    "uptime": "81.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "65.60%",
-    "time": 393,
-    "timeDay": 261,
-    "timeWeek": 194,
-    "timeMonth": 253,
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "65.33%",
+    "time": 394,
+    "timeDay": 228,
+    "timeWeek": 179,
+    "timeMonth": 254,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2025-09-30": 32,
+      "2025-10-01": 36,
+      "2025-09-30": 1440,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -1055,8 +1052,7 @@
       "2025-05-28": 1440,
       "2025-05-27": 224,
       "2025-02-24": 49,
-      "2025-02-12": 455,
-      "2024-10-01": 46
+      "2025-02-12": 455
     }
   }
 ]
