@@ -59,7 +59,7 @@
     "timeMonth": 0,
     "timeYear": 1353,
     "dailyMinutesDown": {
-      "2025-11-06": 1137,
+      "2025-11-06": 1147,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
@@ -245,7 +245,7 @@
     "timeMonth": 288,
     "timeYear": 310,
     "dailyMinutesDown": {
-      "2025-11-06": 1137,
+      "2025-11-06": 1147,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
@@ -579,19 +579,19 @@
     "url": "https://payments.rexmas.com",
     "icon": "https://icons.duckduckgo.com/ip3/payments.rexmas.com.ico",
     "slug": "api-payments",
-    "status": "down",
+    "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 240,
-    "timeDay": 176,
-    "timeWeek": 218,
-    "timeMonth": 234,
+    "timeDay": 160,
+    "timeWeek": 208,
+    "timeMonth": 231,
     "timeYear": 247,
     "dailyMinutesDown": {
-      "2025-11-06": 0
+      "2025-11-06": 9
     }
   },
   {
@@ -611,7 +611,7 @@
     "timeMonth": 215,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2025-11-06": 1138,
+      "2025-11-06": 1147,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
@@ -995,7 +995,7 @@
     "timeMonth": 232,
     "timeYear": 386,
     "dailyMinutesDown": {
-      "2025-11-06": 1138,
+      "2025-11-06": 1147,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
